@@ -1,0 +1,3 @@
+
+Accuracy for graph SVM method with quadratic kernel for features [Sepal length_Sepal width]
+0.8695652173913043

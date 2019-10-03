@@ -1,0 +1,24 @@
+Correlation for all table
+
+                   sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)
+sepal length (cm)           1.000000         -0.117570           0.871754          0.817941
+sepal width (cm)           -0.117570          1.000000          -0.428440         -0.366126
+petal length (cm)           0.871754         -0.428440           1.000000          0.962865
+petal width (cm)            0.817941         -0.366126           0.962865          1.000000
+
+Correlation for data grouped by class name
+
+                              sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)
+name                                                                                                  
+setosa     sepal length (cm)           1.000000          0.742547           0.267176          0.278098
+           sepal width (cm)            0.742547          1.000000           0.177700          0.232752
+           petal length (cm)           0.267176          0.177700           1.000000          0.331630
+           petal width (cm)            0.278098          0.232752           0.331630          1.000000
+versicolor sepal length (cm)           1.000000          0.525911           0.754049          0.546461
+           sepal width (cm)            0.525911          1.000000           0.560522          0.663999
+           petal length (cm)           0.754049          0.560522           1.000000          0.786668
+           petal width (cm)            0.546461          0.663999           0.786668          1.000000
+virginica  sepal length (cm)           1.000000          0.457228           0.864225          0.281108
+           sepal width (cm)            0.457228          1.000000           0.401045          0.537728
+           petal length (cm)           0.864225          0.401045           1.000000          0.322108
+           petal width (cm)            0.281108          0.537728           0.322108          1.000000
